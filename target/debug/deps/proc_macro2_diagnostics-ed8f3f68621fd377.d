@@ -1,0 +1,10 @@
+/Users/Eduardo/Develop/rust-app/target/debug/deps/proc_macro2_diagnostics-ed8f3f68621fd377.rmeta: /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/lib.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/ext.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/diagnostic.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/line.rs
+
+/Users/Eduardo/Develop/rust-app/target/debug/deps/libproc_macro2_diagnostics-ed8f3f68621fd377.rlib: /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/lib.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/ext.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/diagnostic.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/line.rs
+
+/Users/Eduardo/Develop/rust-app/target/debug/deps/proc_macro2_diagnostics-ed8f3f68621fd377.d: /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/lib.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/ext.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/diagnostic.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/line.rs
+
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/lib.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/ext.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/diagnostic.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/line.rs:

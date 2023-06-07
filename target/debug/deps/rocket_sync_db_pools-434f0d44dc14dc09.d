@@ -1,0 +1,9 @@
+/Users/Eduardo/Develop/rust-app/target/debug/deps/rocket_sync_db_pools-434f0d44dc14dc09.rmeta: /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.3/src/lib.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.3/src/poolable.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.3/src/config.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.3/src/error.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.3/src/connection.rs
+
+/Users/Eduardo/Develop/rust-app/target/debug/deps/rocket_sync_db_pools-434f0d44dc14dc09.d: /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.3/src/lib.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.3/src/poolable.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.3/src/config.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.3/src/error.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.3/src/connection.rs
+
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.3/src/lib.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.3/src/poolable.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.3/src/config.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.3/src/error.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.3/src/connection.rs:

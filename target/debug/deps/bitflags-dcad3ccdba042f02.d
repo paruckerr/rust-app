@@ -1,0 +1,12 @@
+/Users/Eduardo/Develop/rust-app/target/debug/deps/bitflags-dcad3ccdba042f02.rmeta: /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/lib.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/parser.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/traits.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/public.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/internal.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/external.rs
+
+/Users/Eduardo/Develop/rust-app/target/debug/deps/libbitflags-dcad3ccdba042f02.rlib: /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/lib.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/parser.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/traits.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/public.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/internal.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/external.rs
+
+/Users/Eduardo/Develop/rust-app/target/debug/deps/bitflags-dcad3ccdba042f02.d: /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/lib.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/parser.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/traits.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/public.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/internal.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/external.rs
+
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/lib.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/parser.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/traits.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/public.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/internal.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.0.2/src/external.rs:

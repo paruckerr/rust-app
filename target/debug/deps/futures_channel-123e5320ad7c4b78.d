@@ -1,0 +1,10 @@
+/Users/Eduardo/Develop/rust-app/target/debug/deps/futures_channel-123e5320ad7c4b78.rmeta: /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.27/src/lib.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.27/src/lock.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.27/src/mpsc/mod.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.27/src/mpsc/queue.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.27/src/mpsc/sink_impl.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.27/src/oneshot.rs
+
+/Users/Eduardo/Develop/rust-app/target/debug/deps/futures_channel-123e5320ad7c4b78.d: /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.27/src/lib.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.27/src/lock.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.27/src/mpsc/mod.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.27/src/mpsc/queue.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.27/src/mpsc/sink_impl.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.27/src/oneshot.rs
+
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.27/src/lib.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.27/src/lock.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.27/src/mpsc/mod.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.27/src/mpsc/queue.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.27/src/mpsc/sink_impl.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.27/src/oneshot.rs:

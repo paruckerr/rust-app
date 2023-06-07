@@ -1,0 +1,12 @@
+/Users/Eduardo/Develop/rust-app/target/debug/deps/tempfile-0b905b3b7625f3ef.rmeta: /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/lib.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/dir.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/error.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/file/mod.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/file/imp/mod.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/spooled.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/util.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/file/imp/unix.rs
+
+/Users/Eduardo/Develop/rust-app/target/debug/deps/tempfile-0b905b3b7625f3ef.d: /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/lib.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/dir.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/error.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/file/mod.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/file/imp/mod.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/spooled.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/util.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/file/imp/unix.rs
+
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/lib.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/dir.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/error.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/file/mod.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/file/imp/mod.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/spooled.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/util.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/file/imp/unix.rs:

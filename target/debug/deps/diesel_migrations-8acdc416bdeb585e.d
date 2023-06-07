@@ -1,0 +1,9 @@
+/Users/Eduardo/Develop/rust-app/target/debug/deps/diesel_migrations-8acdc416bdeb585e.rmeta: /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/diesel_migrations-2.0.0/src/lib.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/diesel_migrations-2.0.0/src/embedded_migrations.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/diesel_migrations-2.0.0/src/errors.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/diesel_migrations-2.0.0/src/file_based_migrations.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/diesel_migrations-2.0.0/src/migration_harness.rs
+
+/Users/Eduardo/Develop/rust-app/target/debug/deps/diesel_migrations-8acdc416bdeb585e.d: /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/diesel_migrations-2.0.0/src/lib.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/diesel_migrations-2.0.0/src/embedded_migrations.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/diesel_migrations-2.0.0/src/errors.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/diesel_migrations-2.0.0/src/file_based_migrations.rs /Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/diesel_migrations-2.0.0/src/migration_harness.rs
+
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/diesel_migrations-2.0.0/src/lib.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/diesel_migrations-2.0.0/src/embedded_migrations.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/diesel_migrations-2.0.0/src/errors.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/diesel_migrations-2.0.0/src/file_based_migrations.rs:
+/Users/Eduardo/.cargo/registry/src/github.com-1ecc6299db9ec823/diesel_migrations-2.0.0/src/migration_harness.rs:
